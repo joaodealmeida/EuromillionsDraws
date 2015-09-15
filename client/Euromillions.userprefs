@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Euromillions\Euromillions.Droid\Euromillions.Droid.csproj" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="Android.AVD_for_Galaxy_Nexus_by_Google" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Euromillions\Euromillions\Pages\Overview.cs">
+    <Files>
+      <File FileName="Euromillions\Euromillions\Notifications\IPushNotificationListener.cs" Line="1" Column="1" />
+      <File FileName="Euromillions\Euromillions\Pages\CameraView.cs" Line="1" Column="1" />
+      <File FileName="Euromillions\Euromillions\Pages\Homepage.cs" Line="1" Column="1" />
+      <File FileName="Euromillions\Euromillions\Pages\Overview.cs" Line="21" Column="4" />
+      <File FileName="Euromillions\Euromillions\Pages\BetPage.cs" Line="1" Column="1" />
+      <File FileName="Euromillions\Euromillions\Pages\RegisterPage.cs" Line="1" Column="1" />
+      <File FileName="Euromillions\Euromillions\Pages\AboutPage.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Euromillions.Droid AndroidDeviceId-Debug="65cc4943" />
+</Properties>

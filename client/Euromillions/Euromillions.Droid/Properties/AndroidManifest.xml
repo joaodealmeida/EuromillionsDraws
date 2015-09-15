@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.bittenapps.sdis.millions.android" android:versionCode="1">
+	<uses-sdk android:minSdkVersion="15" android:targetSdkVersion="21" />
+	<application android:icon="@drawable/icon" android:label="SDIS Millions"></application>
+	<uses-permission android:name="android.permission.WRITE_GSERVICES" />
+	<uses-permission android:name="android.permission.CAMERA" />
+	<uses-permission android:name="android.permission.INTERNET" />
+</manifest>
